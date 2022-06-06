@@ -1,4 +1,4 @@
-TODO have a logo
+![Duo Security](https://duo.com/assets/img/duoLogo-web.png)
 
 # Duo Security on GitHub
 
