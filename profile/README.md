@@ -2,7 +2,7 @@
 
 # Duo Security on GitHub
 
-Duo Security hosts a variety of repositories for use by external developers that want to integrate their applications with Duo.
+Duo Security hosts a variety of repositories for use by developers that want to integrate their applications with Duo.
 Some highlights:
 * API clients for integrating with Duo's [Auth API](https://duo.com/docs/authapi) and [Admin API](https://duo.com/docs/adminapi)
 * Web SDK repositories for adding Duo 2FA to a [web application](https://duo.com/docs/duoweb)
