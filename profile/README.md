@@ -1,4 +1,4 @@
-![Duo Security](https://duo.com/assets/img/duoLogo-web.png)
+![Duo Security](/images/duoLogo-web.png)
 
 # Duo Security on GitHub
 
