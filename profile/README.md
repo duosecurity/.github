@@ -11,5 +11,5 @@ Some highlights:
 
 ----
 
-Duo Security will deprecate and archive all the Web SDK v2 repositories on July 18, 2022.  Please see the [Frequently Asked Questions](https://duosecurity.github.io/faq.html) for more information.
+Duo Security has deprecated and archived all the Web SDK v2 repositories.  Please see the [Frequently Asked Questions](https://duosecurity.github.io/faq.html) for more information.
 
